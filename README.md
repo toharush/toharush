@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @Toharush
-- 👀 I’m interested in JS, React, Angular, Powershell, Nodejs
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Streaming Services
-- 📫 How to reach me @Toharush_ on twitter
+
